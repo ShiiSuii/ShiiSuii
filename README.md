@@ -1,112 +1,173 @@
-```text
- ooooooooo.              .o8       oooo
- `888   `Y88.           "888       `888
-  888   .d88'  .oooo.    888oooo.   888   .ooooo.
-  888ooo88P'  `P  )88b   d88' `88b  888  d88' `88b
-  888          .oP"888   888   888  888  888   888
-  888         d8(  888   888   888  888  888   888
- o888o        `Y888""8o  `Y8bod8P' o888o `Y8bod8P'
+<header>
+  <img width="100%" alt="Pablo Moraes — Robotics & AI" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b998b&height=190&section=header&text=Pablo%20Moraes&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Robotics%20%26%20AI%20Researcher%20%C2%B7%20Uruguay&descSize=18&descAlignY=58"/>
+</header>
 
- ooo        ooooo
- `88.       .888'
-  888b     d'888   .ooooo.  oooo d8b  .oooo.    .ooooo.   .oooo.o
-  8 Y88. .P  888  d88' `88b `888""8P `P  )88b  d88' `88b d88(  "8
-  8  `888'   888  888   888  888      .oP"888  888ooo888 `"Y88b.
-  8    Y     888  888   888  888     d8(  888  888    .o o.  )88b
- o8o        o888o `Y8bod8P' d888b    `Y888""8o `Y8bod8P' 8""888P'
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&color=4FD1C5&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Pablo+%F0%9F%91%8B;Robotics+%E2%80%94+ROS+2+%E2%80%94+Service+Robots+%E2%80%94+HRI;Building+a+RoboCup%40Home+robot+at+UTEC;From+electronics+to+embodied+AI">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&color=0D1B2A&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Pablo+%F0%9F%91%8B;Robotics+%E2%80%94+ROS+2+%E2%80%94+Service+Robots+%E2%80%94+HRI;Building+a+RoboCup%40Home+robot+at+UTEC;From+electronics+to+embodied+AI">
+    <img alt="Hey there, I'm Pablo — Robotics, ROS 2, service robots and HRI" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&color=0D1B2A&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Pablo+%F0%9F%91%8B;Robotics+%E2%80%94+ROS+2+%E2%80%94+Service+Robots+%E2%80%94+HRI;Building+a+RoboCup%40Home+robot+at+UTEC;From+electronics+to+embodied+AI">
+  </picture>
+</p>
 
- .-----------------------------------------------------------------------------.
- | (x) (-) (+)                     ~/about.txt                                 |
- |-----------------------------------------------------------------------------|
- |                                                                             |
- | Hi! I'm Pablo Moraes, a robotics & AI researcher and developer from         |
- | Rivera, Uruguay. University instructor at UTEC and co-founder of            |
- | UruBots, a robotics team for research, education and competitions.          |
- |                                                                             |
- | I like taking ideas from research to real hardware: electronics,            |
- | mechanical design, ROS 2, computer vision and AI, tested on robots that     |
- | actually move, look at you and talk back.                                   |
- |                                                                             |
- | > now: RoboCup @Home service robot, an expressive InMoov head for HRI,      |
- |        VLM-aware navigation and drones for agricultural vision.             |
- | -@ShiiSuii                                                                  |
- |                                                                             |
- '-----------------------------------------------------------------------------'
-```
+<p align="center">
+  <a href="https://github.com/ShiiSuii"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=ShiiSuii&color=1b998b&style=flat&label=profile+views"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pablo-ezequiel-moraes-furik-7b2a07252"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pablo_Moraes-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?user=IU5ck6AAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white"/></a>
+</p>
 
-<p align="left"><b>Robotics &amp; AI Researcher · Robotics Developer · University Instructor</b></p>
+---
 
-<p><img src="./imgs/headings/research.svg" alt="01 Research" width="222" height="51"></p>
+## 👋 About me
 
-- **Service & humanoid robotics** · expressive robots, human–robot interaction, domestic scene understanding
-- **Autonomous navigation** · ROS 2, Nav2, SLAM, sensor fusion, safety-aware autonomy
-- **Computer vision & embodied AI** · detection, segmentation, visual attention, vision–language models
-- **Learning-based control** · behavior cloning, 3D CNNs, deep reinforcement learning
+I'm **Pablo Moraes**, a **robotics & AI researcher and developer** from **Rivera, Uruguay**. I work at **UTEC (Universidad Tecnológica del Uruguay)** as a university instructor and researcher, and I like taking robots all the way **from electronics and mechanical prototyping to ROS 2 software and real-world tests**.
 
-<p><img src="./imgs/headings/projects.svg" alt="02 Projects" width="222" height="51"></p>
+- 🤖 **Service & humanoid robots:** navigation, manipulation, expressive faces and human–robot interaction
+- 🧭 **Autonomy:** ROS 2, Nav2, SLAM, sensor fusion (EKF) and localization
+- 👁️ **Perception & embodied AI:** RGB-D vision, object detection, vision–language models
+- 🔌 **Hardware:** embedded electronics, Jetson / NUC / Arduino / ESP32, servos, LiDAR and 3D printing
+- 🎓 **Teaching:** supporting robotics labs and mentoring students at UTEC
 
-| Project | What it is | Links |
+---
+
+## 🏠 RoboCup@Home — what we're building
+
+At UTEC we're building a **domestic service robot for RoboCup@Home**: a robot that moves around a house, understands what's around it and helps people with everyday tasks.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**🛞 Mobile base & navigation**
+- SOLVER differential-drive base
+- Hokuyo 2D LiDAR + wheel encoders + IMU
+- EKF fusion with `robot_localization`
+- Cartographer SLAM · AMCL · **Nav2**
+
+    </td>
+    <td width="50%" valign="top">
+
+**🦾 Manipulation & perception**
+- **AgileX Piper** arm on a lifting structure
+- **Intel RealSense** RGB-D camera on a pan-tilt head
+- ArUco hand–eye calibration · pick-and-place
+- Object detection for household items
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**🧠 Compute & software**
+- Distributed **ROS 2** across Intel NUC + NVIDIA Jetson
+- Modular task orchestration (navigate · perceive · grasp · talk)
+
+    </td>
+    <td width="50%" valign="top">
+
+**🗣️ Interaction** *(in progress)*
+- Voice interface and dialogue
+- Situational awareness of domestic scenes
+
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/ShiiSuii/base_athome"><img alt="base_athome" src="https://img.shields.io/badge/repo-base__athome-1b998b?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/ShiiSuii/solverRos2_ws"><img alt="solverRos2_ws" src="https://img.shields.io/badge/repo-solverRos2__ws-0d1b2a?style=for-the-badge&logo=ros&logoColor=white"/></a>
+</p>
+
+---
+
+## 🚀 Other things I'm working on
+
+- **Expressive robotic head (InMoov-based):** animatronic face with silicone skin, coordinated expressions and attention-aware interaction
+- **Situational awareness for humanoid robots:** UTEC research fellowship on understanding domestic environments (2026–2027)
+- **VLM-aware navigation:** vision–language models assessing context and risk on top of a classic Nav2 controller
+- **F450 drone + Pixhawk:** aerial datasets and vision models to detect leaf-cutter ant activity in the field
+
+---
+
+## ⭐ Featured projects
+
+| Project | Description | Repo |
 |---|---|---|
-| **RoboCup @Home · SOLVER** | Service robot with ROS 2 navigation, RGB-D perception and an AgileX Piper arm *(in progress)* | [base_athome](https://github.com/ShiiSuii/base_athome) · [solverRos2_ws](https://github.com/ShiiSuii/solverRos2_ws) |
-| **Expressive robotic head** | InMoov-based animatronic face with attention-aware HRI driven by a VLM | [paper](https://arxiv.org/abs/2608.00284) |
-| **Autonomous mini-cars** | Behavior cloning and 3D CNNs on Jetson / DonkeyCar for FIRA | [repo](https://github.com/ShiiSuii/Donkeycar-fira2025) · [paper](https://arxiv.org/abs/2410.07209) |
-| **Quadruped search & rescue** | Rescue-aware frontier exploration for unknown environments | [paper](https://arxiv.org/abs/2608.02571) |
-| **F450 drone · Pixhawk** | UAV datasets and vision models to spot leaf-cutter ant activity *(in progress)* | |
-| **Robot soccer** | Dynamixel prototypes, ROS and GRSim for small-size leagues | [repo](https://github.com/ShiiSuii/Small_Size_Robot) · [paper](https://arxiv.org/abs/2310.17058) |
+| 🏠 **RoboCup@Home robot** | Service robot: navigation, RGB-D perception and manipulation | [base_athome](https://github.com/ShiiSuii/base_athome) |
+| 🧭 **SOLVER ROS 2 workspace** | ROS 2 navigation stack for the SOLVER base, foundation for @Home | [solverRos2_ws](https://github.com/ShiiSuii/solverRos2_ws) |
+| 🏎️ **Autonomous mini-cars** | Behavior cloning and CNNs on Jetson / DonkeyCar for FIRA | [Donkeycar-fira2025](https://github.com/ShiiSuii/Donkeycar-fira2025) |
+| ⚽ **Small Size robot soccer** | Dynamixel-based soccer robots, control and simulation | [Small_Size_Robot](https://github.com/ShiiSuii/Small_Size_Robot) |
+| 🧠 **LLMs on the edge** | Language-model workspace and Jetson inference server | [master_ws](https://github.com/ShiiSuii/master_ws) · [slave_ws](https://github.com/ShiiSuii/slave_ws) |
 
-<p><img src="./imgs/headings/papers.svg" alt="03 Papers" width="186" height="51"></p>
+---
 
-- **Hybrid Attention Estimation Pipeline for Adaptive HRI Using an Expressive Robotic Head** · 2026 · [arXiv](https://arxiv.org/abs/2608.00284)
-- **Situation Aware Frontier Prioritization for Quadruped Search and Rescue** · 2026 · [arXiv](https://arxiv.org/abs/2608.02571)
-- **Mini Autonomous Car Driving based on 3D Convolutional Neural Networks** · SBR/WRE 2025 · [arXiv](https://arxiv.org/abs/2508.21271)
-- **Behavior Cloning for Mini Autonomous Car Path Following** · IEEE URUCON 2024 · [arXiv](https://arxiv.org/abs/2410.07209)
-- **Improving Generalization in Aerial and Terrestrial Mobile Robots Control Through Delayed Policy Learning** · IEEE CASE 2024 · [arXiv](https://arxiv.org/abs/2406.01952)
+## 🧰 Tech stack
 
-<sub>More on [Google Scholar](https://scholar.google.com/citations?user=IU5ck6AAAAAJ&hl=en) and [ORCID](https://orcid.org/0009-0000-8392-3465).</sub>
+<div align="center">
 
-<p><img src="./imgs/headings/stack.svg" alt="04 Stack" width="168" height="51"></p>
+### Languages
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff">&nbsp;
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000">&nbsp;
+<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
 
-<p>
-  <img src="./imgs/icons/lang-python.svg" alt="Python" title="Python" width="60" height="60"
-  ><img src="./imgs/icons/lang-c.svg" alt="C / C++" title="C / C++" width="60" height="60"
-  ><img src="./imgs/icons/lang-ros2.svg" alt="ROS 2" title="ROS 2" width="60" height="60"
-  ><img src="./imgs/icons/lang-nav2.svg" alt="Nav2" title="Nav2" width="60" height="60"
-  ><img src="./imgs/icons/lang-gazebo.svg" alt="Gazebo" title="Gazebo" width="60" height="60"
-  ><img src="./imgs/icons/lang-linux.svg" alt="Ubuntu / Linux" title="Ubuntu / Linux" width="60" height="60"
-  ><img src="./imgs/icons/lang-opencv.svg" alt="OpenCV" title="OpenCV" width="60" height="60"
-  ><img src="./imgs/icons/lang-pytorch.svg" alt="PyTorch" title="PyTorch" width="60" height="60"
-  ><img src="./imgs/icons/lang-yolo.svg" alt="YOLO" title="YOLO" width="60" height="60"
-  ><img src="./imgs/icons/lang-jetson.svg" alt="NVIDIA Jetson" title="NVIDIA Jetson" width="60" height="60"
-  ><img src="./imgs/icons/lang-arduino.svg" alt="Arduino / ESP32" title="Arduino / ESP32" width="60" height="60"
-  ><img src="./imgs/icons/lang-pixhawk.svg" alt="Pixhawk" title="Pixhawk" width="60" height="60">
+### Robotics
+<img alt="ROS 2" src="https://img.shields.io/badge/ROS_2-22314E?logo=ros&logoColor=fff">&nbsp;
+<img alt="Nav2" src="https://img.shields.io/badge/Nav2-22314E?logo=ros&logoColor=fff">&nbsp;
+<img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-F58113?logoColor=fff">&nbsp;
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff">&nbsp;
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+
+### AI & Vision
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff">&nbsp;
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff">&nbsp;
+<img alt="YOLO" src="https://img.shields.io/badge/YOLO-111F68?logoColor=fff">&nbsp;
+<img alt="VLMs" src="https://img.shields.io/badge/VLMs_%26_LLMs-6E40C9?logoColor=fff">
+
+### Hardware
+<img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?logo=nvidia&logoColor=fff">&nbsp;
+<img alt="Intel NUC" src="https://img.shields.io/badge/Intel_NUC-0071C5?logo=intel&logoColor=fff">&nbsp;
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=fff">&nbsp;
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff">&nbsp;
+<img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff">&nbsp;
+<img alt="Pixhawk" src="https://img.shields.io/badge/Pixhawk-1F2A44?logoColor=fff">&nbsp;
+<img alt="RealSense" src="https://img.shields.io/badge/Intel_RealSense-0071C5?logo=intel&logoColor=fff">
+
+</div>
+
+---
+
+## 🏆 Competitions
+
+With **UruBots**, the robotics competition team at UTEC Rivera (team results):
+
+- 🥇 **FIRA RoboWorld Cup 2023 — Germany:** 1st place, Mission Impossible United
+- 🥉 **FIRA RoboWorld Cup 2024 — Brazil:** 3rd place in Autonomous Cars and in Humanoids
+- 🌏 **FIRA RoboWorld Cup 2025 — South Korea:** multi-category participation
+- ⚽ **RoboCup 2025 — Salvador, Brazil**
+
+---
+
+## 🌐 Find me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-ezequiel-moraes-furik-7b2a07252"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/pablo_moraes__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=IU5ck6AAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0000-8392-3465"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Pablo-Moraes-2"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
 </p>
 
-<p><img src="./imgs/headings/team.svg" alt="05 Urubots" width="204" height="51"></p>
-
-Co-founder of **UruBots** (UTEC Rivera, 2022). Team highlights:
-
-- **FIRA RoboWorld Cup 2023 · Germany** · 1st place, Mission Impossible United
-- **FIRA RoboWorld Cup 2024 · Brazil** · 3rd place in Autonomous Cars and Humanoids
-- **FIRA RoboWorld Cup 2025 · South Korea** · multi-category participation
-- **RoboCup 2025 · Brazil** · Rescue and @Work teams
-
-Plus robotics workshops and outreach for students across Uruguay.
-
-<p><img src="./imgs/headings/links.svg" alt="06 Links" width="162" height="51"></p>
-
-<p>
-  <a href="https://github.com/ShiiSuii"><img src="./imgs/icons/github.svg" alt="GitHub" title="GitHub" width="60" height="60"></a
-  ><a href="https://www.linkedin.com/in/pablo-ezequiel-moraes-furik-7b2a07252"><img src="./imgs/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="60" height="60"></a
-  ><a href="https://www.instagram.com/pablo_moraes__/"><img src="./imgs/icons/instagram.svg" alt="Instagram" title="Instagram" width="60" height="60"></a
-  ><a href="https://scholar.google.com/citations?user=IU5ck6AAAAAJ&amp;hl=en"><img src="./imgs/icons/scholar.svg" alt="Google Scholar" title="Google Scholar" width="60" height="60"></a
-  ><a href="https://orcid.org/0009-0000-8392-3465"><img src="./imgs/icons/orcid.svg" alt="ORCID" title="ORCID" width="60" height="60"></a
-  ><a href="https://www.researchgate.net/profile/Pablo-Moraes-2"><img src="./imgs/icons/researchgate.svg" alt="ResearchGate" title="ResearchGate" width="60" height="60"></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShiiSuii/ShiiSuii/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShiiSuii/ShiiSuii/output/github-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ShiiSuii/ShiiSuii/output/github-snake.svg">
+  </picture>
 </p>
 
-```text
- pablo@urubots ~ % ros2 launch robot bringup.launch.py
- [INFO] [launch]: All log files can be found below ~/.ros/log
- [INFO] [robot]: hardware ok · sensors ok · ready to move
-
- [Process running]▌
-```
+<footer>
+  <img width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b998b,100:0d1b2a&height=120&section=footer"/>
+</footer>
