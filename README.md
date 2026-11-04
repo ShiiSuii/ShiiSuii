@@ -1,6 +1,6 @@
-<header>
-  <img width="100%" alt="Pablo Moraes — Robotics & AI" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b998b&height=190&section=header&text=Pablo%20Moraes&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Robotics%20%26%20AI%20Researcher%20%C2%B7%20Uruguay&descSize=18&descAlignY=58"/>
-</header>
+<p align="center">
+  <img width="100%" alt="Pablo Moraes — Robotics &amp; AI Researcher" src="./assets/header.svg"/>
+</p>
 
 <p align="center">
   <picture>
@@ -161,13 +161,5 @@ With **UruBots**, the robotics competition team at UTEC Rivera (team results):
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShiiSuii/ShiiSuii/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShiiSuii/ShiiSuii/output/github-snake.svg">
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ShiiSuii/ShiiSuii/output/github-snake.svg">
-  </picture>
+  <img width="100%" alt="" src="./assets/footer.svg"/>
 </p>
-
-<footer>
-  <img width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b998b,100:0d1b2a&height=120&section=footer"/>
-</footer>
