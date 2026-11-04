@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&color=4FD1C5&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Pablo+%F0%9F%91%8B;Robotics+%E2%80%94+ROS+2+%E2%80%94+Service+Robots+%E2%80%94+HRI;Building+a+RoboCup%40Home+robot+at+UTEC;From+electronics+to+embodied+AI">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&color=0D1B2A&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Pablo+%F0%9F%91%8B;Robotics+%E2%80%94+ROS+2+%E2%80%94+Service+Robots+%E2%80%94+HRI;Building+a+RoboCup%40Home+robot+at+UTEC;From+electronics+to+embodied+AI">
-    <img alt="Hey there, I'm Pablo — Robotics, ROS 2, service robots and HRI" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&color=0D1B2A&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Pablo+%F0%9F%91%8B;Robotics+%E2%80%94+ROS+2+%E2%80%94+Service+Robots+%E2%80%94+HRI;Building+a+RoboCup%40Home+robot+at+UTEC;From+electronics+to+embodied+AI">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&color=4FD1C5&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Pablo+%F0%9F%91%8B;Robotics+%E2%80%94+ROS+2+%E2%80%94+Service+Robots+%E2%80%94+HRI;From+electronics+to+embodied+AI">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&color=0D1B2A&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Pablo+%F0%9F%91%8B;Robotics+%E2%80%94+ROS+2+%E2%80%94+Service+Robots+%E2%80%94+HRI;From+electronics+to+embodied+AI">
+    <img alt="Hey there, I'm Pablo — Robotics, ROS 2, service robots and HRI" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&color=0D1B2A&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Pablo+%F0%9F%91%8B;Robotics+%E2%80%94+ROS+2+%E2%80%94+Service+Robots+%E2%80%94+HRI;From+electronics+to+embodied+AI">
   </picture>
 </p>
 
@@ -28,78 +28,6 @@ I'm **Pablo Moraes**, a **robotics & AI researcher and developer** from **Rivera
 - 🧭 **Autonomy:** ROS 2, Nav2, SLAM, sensor fusion (EKF) and localization
 - 👁️ **Perception & embodied AI:** RGB-D vision, object detection, vision–language models
 - 🔌 **Hardware:** embedded electronics, Jetson / NUC / Arduino / ESP32, servos, LiDAR and 3D printing
-- 🎓 **Teaching:** supporting robotics labs and mentoring students at UTEC
-
----
-
-## 🏠 RoboCup@Home — what we're building
-
-At UTEC we're building a **domestic service robot for RoboCup@Home**: a robot that moves around a house, understands what's around it and helps people with everyday tasks.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**🛞 Mobile base & navigation**
-- SOLVER differential-drive base
-- Hokuyo 2D LiDAR + wheel encoders + IMU
-- EKF fusion with `robot_localization`
-- Cartographer SLAM · AMCL · **Nav2**
-
-    </td>
-    <td width="50%" valign="top">
-
-**🦾 Manipulation & perception**
-- **AgileX Piper** arm on a lifting structure
-- **Intel RealSense** RGB-D camera on a pan-tilt head
-- ArUco hand–eye calibration · pick-and-place
-- Object detection for household items
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**🧠 Compute & software**
-- Distributed **ROS 2** across Intel NUC + NVIDIA Jetson
-- Modular task orchestration (navigate · perceive · grasp · talk)
-
-    </td>
-    <td width="50%" valign="top">
-
-**🗣️ Interaction** *(in progress)*
-- Voice interface and dialogue
-- Situational awareness of domestic scenes
-
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/ShiiSuii/base_athome"><img alt="base_athome" src="https://img.shields.io/badge/repo-base__athome-1b998b?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/ShiiSuii/solverRos2_ws"><img alt="solverRos2_ws" src="https://img.shields.io/badge/repo-solverRos2__ws-0d1b2a?style=for-the-badge&logo=ros&logoColor=white"/></a>
-</p>
-
----
-
-## 🚀 Other things I'm working on
-
-- **Expressive robotic head (InMoov-based):** animatronic face with silicone skin, coordinated expressions and attention-aware interaction
-- **Situational awareness for humanoid robots:** UTEC research fellowship on understanding domestic environments (2026–2027)
-- **VLM-aware navigation:** vision–language models assessing context and risk on top of a classic Nav2 controller
-- **F450 drone + Pixhawk:** aerial datasets and vision models to detect leaf-cutter ant activity in the field
-
----
-
-## ⭐ Featured projects
-
-| Project | Description | Repo |
-|---|---|---|
-| 🏠 **RoboCup@Home robot** | Service robot: navigation, RGB-D perception and manipulation | [base_athome](https://github.com/ShiiSuii/base_athome) |
-| 🧭 **SOLVER ROS 2 workspace** | ROS 2 navigation stack for the SOLVER base, foundation for @Home | [solverRos2_ws](https://github.com/ShiiSuii/solverRos2_ws) |
-| 🏎️ **Autonomous mini-cars** | Behavior cloning and CNNs on Jetson / DonkeyCar for FIRA | [Donkeycar-fira2025](https://github.com/ShiiSuii/Donkeycar-fira2025) |
-| ⚽ **Small Size robot soccer** | Dynamixel-based soccer robots, control and simulation | [Small_Size_Robot](https://github.com/ShiiSuii/Small_Size_Robot) |
-| 🧠 **LLMs on the edge** | Language-model workspace and Jetson inference server | [master_ws](https://github.com/ShiiSuii/master_ws) · [slave_ws](https://github.com/ShiiSuii/slave_ws) |
 
 ---
 
@@ -141,12 +69,16 @@ At UTEC we're building a **domestic service robot for RoboCup@Home**: a robot th
 
 ## 🏆 Competitions
 
-With **UruBots**, the robotics competition team at UTEC Rivera (team results):
+With **[UruBots](https://urubots.uy)**, the robotics competition team at UTEC Rivera (team results):
 
 - 🥇 **FIRA RoboWorld Cup 2023 — Germany:** 1st place, Mission Impossible United
 - 🥉 **FIRA RoboWorld Cup 2024 — Brazil:** 3rd place in Autonomous Cars and in Humanoids
 - 🌏 **FIRA RoboWorld Cup 2025 — South Korea:** multi-category participation
 - ⚽ **RoboCup 2025 — Salvador, Brazil**
+
+<p>
+  <a href="https://urubots.uy"><img alt="UruBots website" src="https://img.shields.io/badge/UruBots-urubots.uy-1b998b?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 ---
 
